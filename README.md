@@ -36,8 +36,9 @@ Instances of this distribution class should store the distribution parameters as
 
 ## To-do
 
-Unit Tests
-Maybe DistributionSampler into smaller classes
-Improve the namespaces
-Upload to PyPi
-Detailled instructions for the README.md
+* Unit Tests
+* Delete main.py
+* Maybe refactor DistributionSampler into smaller classes
+* Improve the namespaces
+* Upload to PyPi
+* Detailled instructions for the README.md
