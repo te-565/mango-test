@@ -20,11 +20,11 @@ This repo contains my solutions to these challenges in three parts.
 
 **The challenge**
 
-Construct an alternative to the above solution by using one or more classes instead of a single function.
-Instances of this distribution class should store the distribution parameters as attributes, and also contain a draw method, which draws a fresh set of random numbers according to the distributions parameters, and a summarise method, which prints the min, max, mean, and standard deviation of the newly drawn sample.
+*Construct an alternative to the above solution by using one or more classes instead of a single function.
+Instances of this distribution class should store the distribution parameters as attributes, and also contain a draw method, which draws a fresh set of random numbers according to the distributions parameters, and a summarise method, which prints the min, max, mean, and standard deviation of the newly drawn sample.*
 
 ## Part 3: Package Building
 
 **The challenge** 
 
-Build a package containing the functions and classes above. Use any tools as necessary. Include instructions on how the package can be installed.
+*Build a package containing the functions and classes above. Use any tools as necessary. Include instructions on how the package can be installed.*
