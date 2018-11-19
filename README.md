@@ -6,7 +6,7 @@ So I'm doing a coding test! The test has three parts:
 2. Object-oriented programming
 3. Package building
 
-This repo contains my solutions to these challenges in three parts.
+This repo contains my solutions to the first two parts of these challenges.
 
 ## Part 1: Functions
 
