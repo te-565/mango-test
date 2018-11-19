@@ -32,7 +32,7 @@ This repo contains my solutions to these challenges.
 *Construct an alternative to the above solution by using one or more classes instead of a single function.
 Instances of this distribution class should store the distribution parameters as attributes, and also contain a draw method, which draws a fresh set of random numbers according to the distributions parameters, and a summarise method, which prints the min, max, mean, and standard deviation of the newly drawn sample.*
 
-[My solution](http://nbviewer.jupyter.org/github/Tommo565/distribution-sampler/blob/master/1.%20Analysis.ipynb)
+[My solution](http://nbviewer.jupyter.org/github/tommo565/mango-test/blob/master/3.%20Programming%20-%20OOP.ipynb)
 
 ## Part 4: Package Building
 
