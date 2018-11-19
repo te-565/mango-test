@@ -1,14 +1,23 @@
 # distribution-sampler
 
-So I'm doing a coding test! The test has three parts:
+So I'm doing a coding test! The test has four parts:
 
-1. Functions
-2. Object-oriented programming
-3. Package building
+1. Analysis
+2. Functions
+3. Object-oriented programming
+4. Package building
 
-This repo contains my solutions to the first two parts of these challenges.
+This repo contains my solutions to these challenges.
 
-## Part 1: Functions
+## Part 1: Analysis
+
+**The challenge**
+
+*Read in the csv containing NBA free throws. Visualise some aspect of the data you find interesting, e.g., the average number of free throws per period for the regular season and the playoffs.*
+
+[My Solution (TBC)]()
+
+## Part 2: Functions
 
 **The challenge**  
 
@@ -16,7 +25,7 @@ This repo contains my solutions to the first two parts of these challenges.
 
 [My solution](http://nbviewer.jupyter.org/github/Tommo565/distribution-sampler/blob/master/1.%20Programming%20-%20Functions.ipynb)
 
-## Part 2: Object-oriented programming
+## Part 3: Object-oriented programming
 
 **The challenge**
 
@@ -25,17 +34,12 @@ Instances of this distribution class should store the distribution parameters as
 
 [My solution](http://nbviewer.jupyter.org/github/tommo565/distribution-sampler/blob/master/2.%20Programming%20-%20OOP.ipynb)
 
-## Part 3: Package Building
+## Part 4: Package Building
 
 **The challenge** 
 
 *Build a package containing the functions and classes above. Use any tools as necessary. Include instructions on how the package can be installed.*
 
-[Package repo available here](https://github.com/Tommo565/toms_dist_sampler) 
+[Package repo available here](https://github.com/Tommo565/toms_dist_sampler)
+[PyPi package here](https://pypi.org/project/toms-dist-sampler/)
 
-
-## To-do
-
-* Improve the package
-* Upload to PyPi
-* Detailled instructions for the README.md
