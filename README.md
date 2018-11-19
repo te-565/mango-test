@@ -31,7 +31,7 @@ Instances of this distribution class should store the distribution parameters as
 
 *Build a package containing the functions and classes above. Use any tools as necessary. Include instructions on how the package can be installed.*
 
-[Package Contents available here](https://github.com/Tommo565/distribution-sampler/tree/master/toms_dist_sampler) 
+[Package Contents available here](https://github.com/Tommo565/toms_dist_sampler) 
 
 
 ## To-do
