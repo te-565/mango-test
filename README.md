@@ -15,7 +15,7 @@ This repo contains my solutions to these challenges.
 
 *Read in the csv containing NBA free throws. Visualise some aspect of the data you find interesting, e.g., the average number of free throws per period for the regular season and the playoffs.*
 
-[My Solution (TBC)]()
+[My Solution](http://nbviewer.jupyter.org/github/Tommo565/distribution-sampler/blob/master/1.%20Analysis.ipynb)
 
 ## Part 2: Functions
 
