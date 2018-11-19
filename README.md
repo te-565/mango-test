@@ -40,6 +40,6 @@ Instances of this distribution class should store the distribution parameters as
 
 *Build a package containing the functions and classes above. Use any tools as necessary. Include instructions on how the package can be installed.*
 
-[Package repo available here](https://github.com/Tommo565/toms_dist_sampler)
-[PyPi package here](https://pypi.org/project/toms-dist-sampler/)
+[My Solution (Repo)](https://github.com/Tommo565/toms_dist_sampler)  
+[My Solution (PyPI)](https://pypi.org/project/toms-dist-sampler/)  
 
