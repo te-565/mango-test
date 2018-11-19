@@ -73,7 +73,10 @@ class DistributionSampler:
         Examples
         --------
 
+        Creating an instance:
         Instance = DistributionSampler(1000, 'Normal', mean=0, sd = 5)
+
+        Creating an output array
         s = Instance.draw()
 
         Instance = DistributionSampler()
@@ -365,7 +368,7 @@ class DistributionSampler:
                 (self.trials is not None) or (self.prob is not None)
             ):
                 warnings.warn(
-                    'The mean, sd, trials and prob parameters are not used in
+                    'The mean, sd, trials and prob parameters are not used in '
                     'the selection of a ' 
                     'poisson distribution. These parameters will be ignored.\n'
                 )
@@ -534,7 +537,7 @@ class DistributionSampler:
 
         else:
             raise ValueError(
-                'You have not yet created a sample to summarise. You can create
+                'You have not yet created a sample to summarise. You can create '
                 'a sample by calling the draw() method with appropriate '
                 'parameters e.g. Instance.draw(5000, "Normal", mean=2, sd=5) '
                 'or of you have already input the parameters, simple call the '

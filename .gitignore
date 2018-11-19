@@ -3,6 +3,7 @@
 .DS_Store
 .ipynb_checkpoints
 toms-dist-sampler/env/*
+data/
 
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python

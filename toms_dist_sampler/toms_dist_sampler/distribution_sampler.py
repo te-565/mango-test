@@ -32,7 +32,7 @@ def validate_params(size, dist, mean, sd, lam, trials, prob):
             )
 
         # Raise a warning if irrelevent parameters are provided
-        elif (lam not None) or (trials not None) or (prob not None):
+        elif (lam is not None) or (trials is not None) or (prob is not None):
             warnings.warn(
                 'The lam, trials and prob parameters are not used in the '
                 'selection of a normal distribution. These parameters will be'
