@@ -43,3 +43,5 @@ Instances of this distribution class should store the distribution parameters as
 [My Solution (Repo)](https://github.com/Tommo565/toms_dist_sampler)  
 [My Solution (PyPI)](https://pypi.org/project/toms-dist-sampler/)  
 
+Note that the initial development of this package was done in this repo in the `toms_dist_sampler` folder. It was moved to the repo linked above in order to upload to PyPI.
+
