@@ -1,4 +1,4 @@
-# distribution-sampler
+# mango-test
 
 So I'm doing a coding test! The test has four parts:
 
